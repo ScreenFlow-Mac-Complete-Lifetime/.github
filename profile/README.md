@@ -17,7 +17,7 @@
 <a href="#"><img src="https://img.shields.io/badge/license-Professional%20Edition-lightgrey?style=flat" alt="license"/></a>
 <a href="#"><img src="https://img.shields.io/badge/platform-macOS-blue?style=flat" alt="platform"/></a>
 
-<img src="https://images.openai.com/thumbnails/url/FaPHFXicu5mZUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw7297RwzzaptDBJMqnS9QkJNSzOKfAJqco0Dq0KyfW2dDfN9Mz0y3b18gg0M0s0z_VVKwYAQeQlJg?utm_source=chatgpt.com" width="824" alt="Screenshot"/>
+<img src="https://www.telestream.net/screenflow/images/ScreenFlow-Laptop.png" width="824" alt="Screenshot"/>
 
 </div>
 
@@ -60,7 +60,7 @@ Performance optimization through background processing maintains interface respo
 ## Screenshots
 
 <p align="center">
-  <img src="https://images.openai.com/thumbnails/url/dPKpu3icu5mZUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw4u9E508wxJDow3CyjJdc8xrKhIdUupSg1PL_asiHR1S813tMzNMjJMCStLN62yCPBUKwYAbOYmig?utm_source=chatgpt.com" width="824" alt="ScreenFlow Mac screenshot"/>
+  <img src="https://9to5mac.com/wp-content/uploads/sites/6/2017/08/screenflow-71.jpg?quality=82&strip=all&w=1600" width="824" alt="ScreenFlow Mac screenshot"/>
 </p>
 
 ---
